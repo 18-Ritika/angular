@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  mat-toolbar {
+    background: skyblue;
+}
+
+mat-drawer {
+    border: 1px solid;
+    min-width: 20%;
+    height:500px;
+}
+
+mat-drawer-container {
+    height: 600px;
+}
